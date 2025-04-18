@@ -1,0 +1,71 @@
+PHP 
+full form - hypertext preprocessor
+hpp  it is name just name 
+
+Introudction
+
+- why php 
+- related to web development 
+- Dynaimc web applications - Interactive pages 
+
+MVC 
+- view - html - css - client presentation logic
+- controller - php - server side logic
+- model - php - database interaction
+
+php - server side scripting language
+- controller 
+
+easily embedded in html
+
+why php - 
+- simple and easy to learn
+- open source and freeware 
+- Object Oriented 
+- Platform independent
+- vast community Support 
+- it is intpreted language
+- Faster than other languages for server side 
+php - supports all types of server
+- data base support 
+- session support 
+- security support
+
+
+websites developed with php
+facebook 
+yahoo
+wordpress
+canva
+flipcart
+spotify
+twitter 
+flicker
+
+----------------------------------------------------------------
+
+Where to use 
+ecommerce
+cms
+erp
+database applications 
+e-mails 
+----------------------------------------------------------------
+
+Installation of PHP 
+we can use wamp - windows apache mysql php
+or xampp - any apache mysql php
+ 
+xamp - htdocs
+
+<?php 
+ echo "Hello World";
+ // for print
+?>
+
+whenever we want to write html in php code we use echo 
+
+difference between echo and print
+
+
+// TO concat in php we use . operator in php

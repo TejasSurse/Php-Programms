@@ -1,0 +1,3 @@
+/*
+php script is executed on the server and the plain html results is sent back to the browser.
+*/
